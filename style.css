@@ -1,0 +1,69 @@
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+}
+body {
+    background-color: #2F3035;
+    background-image: url(images/meat\ dish.jpg);
+    background-size: cover;
+}
+header {
+    height: 120px;
+    width: 1024px;
+    text-align: center;
+}
+nav {
+    margin-top: 20px;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    height: 10px;
+    background-color:yellowgreen;
+}
+main {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    } 
+
+footer {
+    
+    background-color:rgb(43, 44, 42) ;
+    padding-bottom: 50px;
+    padding-top: 50px;
+
+    
+}
+h1 {
+    font-size: 60px;
+    color: rgb(7, 247, 7);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+} 
+p {
+    color: white;
+    font-size: x-large;
+    font-weight: 900;
+}
+a {
+    color: blue;
+    font-weight: 900;
+    font-family: fantasy;
+    font-weight: bold;
+    font
+}
+nav a {
+    text-decoration: none;
+    font-size: 14px;
+    padding-right: 20px;
+    padding-left: 20px;
+    height: 20px;
+}
+footer p {
+    font-size: 20px;
+    text-align: center;
+    color: rgb(185, 60, 60);
+section {
+    padding-left: 200px;
+    padding-right: 200px;
+}
